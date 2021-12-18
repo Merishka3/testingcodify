@@ -1,1 +1,5 @@
-<em> Git i great </em>
+<<<<<<< HEAD
+
+<strong>Git is great</strong>
+
+>>>>>>> testcases
